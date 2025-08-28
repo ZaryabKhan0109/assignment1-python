@@ -15,8 +15,6 @@ Displays the results.
 2. Python task2
 This repository contains simple Python scripts for practicing input handling, string operations, arithmetic operations, and formatted output.
 
----
-
 ### Description
 - Prompts the user to enter a first name and a second name.
 - Concatenates the names into a single string.
